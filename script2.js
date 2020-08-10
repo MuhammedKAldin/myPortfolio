@@ -1,10 +1,4 @@
-window.onload = function(){
-  //hide the preloader
-  document.querySelector("#overlayer").style.display = "none";
-  document.querySelector(".loader").style.display = "none";
-}
-   
-   function myFunction() {
+function myFunction() {
              var x = document.getElementById("panel");
              if(x.style.display === "none")
             {
