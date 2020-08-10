@@ -433,11 +433,11 @@ ul>li:hover{
 }
 
 .headsUp{
-  height: 121px;
+    height: 121px;
   color:
-  #f7f7f7 ;
+  #f7f7f7;
   background:
-  #3df2d3  url(headsUp3.png) repeat-x bottom center;
+  #3df2d3   url(headsUp3.png) repeat-x bottom center;
 }
 
 .imgHeaderP1{
@@ -467,6 +467,10 @@ ul>li:hover{
 
 .lostPosSec{
   padding-bottom: 10%;
+}
+
+.skillList {
+  margin-top: 50%;
 }
 
 @media only screen and (max-width: 767px) {
@@ -528,8 +532,28 @@ ul>li:hover{
     margin-top: -12%;
   }
 
+  .skillList{
+    margin-top: 75%;
+  }
 
-} 
+}
+
+@media only screen and (min-width: 770px) {
+
+  .skillList{
+    margin-top: 93%;
+  }
+
+}
+
+@media only screen and (min-width: 992px) {
+
+  .skillList{
+    margin-top: 65%;
+  }
+
+}
+
 
 /* NavBar Animations */
 
