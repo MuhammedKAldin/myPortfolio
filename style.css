@@ -435,9 +435,9 @@ ul>li:hover{
 .headsUp{
   height: 121px;
   color:
-  #3df2d3 ;
+  #f7f7f7 ;
   background:
-  #2487eb url(headsUp3.png) repeat-x bottom center;
+  #3df2d3  url(headsUp3.png) repeat-x bottom center;
 }
 
 .imgHeaderP1{
